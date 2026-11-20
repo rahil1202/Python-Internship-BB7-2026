@@ -1,1 +1,1 @@
-print("Day01")
+print("task from Day01")
