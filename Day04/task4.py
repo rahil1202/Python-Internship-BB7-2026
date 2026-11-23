@@ -1,0 +1,3 @@
+print("task from Day04")
+print("task from Day04")
+print("task from Day04")
